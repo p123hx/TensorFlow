@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/cql/Desktop/tf_learn/MNIST/model/model.ckpt-11001"
+all_model_checkpoint_paths: "/Users/cql/Desktop/tf_learn/MNIST/model/model.ckpt-7001"
+all_model_checkpoint_paths: "/Users/cql/Desktop/tf_learn/MNIST/model/model.ckpt-8001"
+all_model_checkpoint_paths: "/Users/cql/Desktop/tf_learn/MNIST/model/model.ckpt-9001"
+all_model_checkpoint_paths: "/Users/cql/Desktop/tf_learn/MNIST/model/model.ckpt-10001"
+all_model_checkpoint_paths: "/Users/cql/Desktop/tf_learn/MNIST/model/model.ckpt-11001"
